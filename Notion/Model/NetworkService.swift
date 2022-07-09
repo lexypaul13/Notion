@@ -29,7 +29,6 @@ class NetworkService{
                 return
             }
             guard let data = data else {
-                print(error?.localizedDescription)
                 return
             }
             

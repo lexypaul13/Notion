@@ -18,6 +18,8 @@
 		573B929C27A5DA0F00546F20 /* NotionUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 573B929B27A5DA0F00546F20 /* NotionUITestsLaunchTests.swift */; };
 		573B92A927A5E7D500546F20 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 573B92A827A5E7D500546F20 /* NetworkService.swift */; };
 		573B92AB27A6257600546F20 /* Database.swift in Sources */ = {isa = PBXBuildFile; fileRef = 573B92AA27A6257600546F20 /* Database.swift */; };
+		57D6D69D2879E20A007F8B6F /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D6D69C2879E20A007F8B6F /* test.swift */; };
+		57D6D69F2879E219007F8B6F /* fatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D6D69E2879E219007F8B6F /* fatViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		573B929B27A5DA0F00546F20 /* NotionUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotionUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		573B92A827A5E7D500546F20 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
 		573B92AA27A6257600546F20 /* Database.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Database.swift; sourceTree = "<group>"; };
+		57D6D69C2879E20A007F8B6F /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
+		57D6D69E2879E219007F8B6F /* fatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fatViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +141,8 @@
 			children = (
 				573B92AA27A6257600546F20 /* Database.swift */,
 				573B92A827A5E7D500546F20 /* NetworkService.swift */,
+				57D6D69C2879E20A007F8B6F /* test.swift */,
+				57D6D69E2879E219007F8B6F /* fatViewController.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -281,6 +287,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				573B927D27A5DA0D00546F20 /* ViewController.swift in Sources */,
+				57D6D69F2879E219007F8B6F /* fatViewController.swift in Sources */,
+				57D6D69D2879E20A007F8B6F /* test.swift in Sources */,
 				573B927927A5DA0D00546F20 /* AppDelegate.swift in Sources */,
 				573B92A927A5E7D500546F20 /* NetworkService.swift in Sources */,
 				573B92AB27A6257600546F20 /* Database.swift in Sources */,
